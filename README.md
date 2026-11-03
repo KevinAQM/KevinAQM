@@ -25,3 +25,16 @@ Enfocado en el diseño de sistemas robustos, la optimización de procesos operat
 - **Datos y Analítica:** pandas, NumPy, PostgreSQL, Supabase, SQLite, Matplotlib, Seaborn, Power BI
 - **Automatización y Scraping:** Playwright, Scrapy, Selenium, Beautiful Soup, n8n, Telegram Bot API
 - **Cloud, DevOps y Entornos:** Linux, Docker, AWS, Google Cloud Platform (GCP), Microsoft Azure, Vercel, Git y GitHub
+
+### 🌐 Formación y Sectores de Especialización
+
+- **Formación Académica:** Bachiller en Ciencias con mención en Ingeniería Mecánica Eléctrica — Universidad Nacional Tecnológica de Lima Sur (UNTELS).
+- **Sectores de Experiencia:** Energías renovables (investigación y análisis solar/eólico), manufactura, transporte, construcción e industria pesada.
+
+---
+
+### 📬 Contacto
+
+- **LinkedIn:** [linkedin.com/in/kevinaqm](https://linkedin.com/in/kevinaqm)
+- **Correo:** [kevin.aqm@gmail.com](mailto:kevin.aqm@gmail.com)
+- **GitHub:** [github.com/KevinAQM](https://github.com/KevinAQM)
